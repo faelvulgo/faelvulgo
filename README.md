@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning about identification of internal waves in the ocean
 - 📫 You can reach me via this e-mail: rafael.bittencourt.2002@gmail.com
 
+![Snake animation](https://github.com/faelvulgo/faelvulgo/blob/output/github-contribution-grid-snake.svg)
+
 <!---
 faelvulgo/faelvulgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
