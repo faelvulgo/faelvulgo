@@ -3,9 +3,9 @@
 - Atualmente faço iniciação científica no Laboratório de Dinâmica Oceânica.
 
 <div>
-  <a href="https://github.com/eagrundy">
+  <a href="https://github.com/faelvulgo">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faelvulgo&layout=compact&langs_count=16&theme=tokyonight"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=faelvulgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=faelvulgo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 ## Linguagens
