@@ -20,9 +20,9 @@
 
 ## Contato
 <div> 
-  <a href = "mailto: rafael.bittencourt.2002@gmail.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" width="50"target="_blank"></a>
-  <a href="www.linkedin.com/in/rafael-bittencourt-07b5a22b7" target="_blank"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" width="50" target="_blank"></a>
-  <a href="http://lattes.cnpq.br/2783683502858036" target="_blank"><img src="https://hc.unicamp.br/wp-content/uploads/2020/04/icon-lattes.png" width="50" target="_blank"></a>
+  <a href = "mailto: rafael.bittencourt.2002@gmail.com"><img src="https://cdn.svgporn.com/logos/google-gmail.svg" height="30" width="40" target="_blank"></a>
+  <a href="www.linkedin.com/in/rafael-bittencourt-07b5a22b7" target="_blank"><img src="https://cdn.svgporn.com/logos/linkedin-icon.svg" height="30" width="40" target="_blank"></a>
+  <a href="http://lattes.cnpq.br/2783683502858036" target="_blank"><img src="https://hc.unicamp.br/wp-content/uploads/2020/04/icon-lattes.png" height="40" width="40" target="_blank"></a>
  </br>
 </br> 
 </div>
