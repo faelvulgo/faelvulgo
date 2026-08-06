@@ -28,8 +28,7 @@ Physical Oceanographer, master's student in physical oceanography and remote sen
 
 </div>
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=faelvulgo&langs_count=4)
-
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=faelvulgo&langs_count=4&theme=tokyonight)
 ## GitHub Stats
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=faelvulgo&theme=tokyonight" alt="GitHub Streak" height="165"/>
