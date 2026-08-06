@@ -1,9 +1,10 @@
 <div align="center">
-<img src="./assets/banner.png" alt="Banner" width="40%"/>
+<img src="./assets/banner.png" alt="Banner" width="20%"/>
 <br/>
 
-# Rafael Silva Bittencourt
-### Physical Oceanographer, master's student in physical and remote sensing oceanography
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5022A1&center=true&vCenter=true&width=700&lines=Hello!+I'am+Rafael+Bittencourt." alt="Typing SVG" />
+
+Physical Oceanographer, master's student in physical oceanography and remote sensing.
 
 <div align="center">
 
